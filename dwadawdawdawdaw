@@ -1,0 +1,9 @@
+return {
+	Owners = {
+		4592475005,
+		4594897201,
+	},
+	VapeIcon = {
+		"table5x87c7a589vt2f",
+	},
+}
